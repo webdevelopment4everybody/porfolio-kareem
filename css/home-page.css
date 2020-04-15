@@ -1,4 +1,6 @@
+@import './variables.css';
 @import './reset.css';
+@import './layout.css';
 @import './common.css';
 @import './header.css';
 @import './hero.css';
@@ -11,7 +13,6 @@
 @import './testimonials.css';
 @import './contact-me.css';
 @import './footer.css';
-
 
 
 
